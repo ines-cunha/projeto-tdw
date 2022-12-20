@@ -1,4 +1,4 @@
-const Express = requerid("Express");
+const Express = required("Express");
 const App = express();
 const port = 4000;
 
